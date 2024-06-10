@@ -8,8 +8,8 @@
 
 
 
-# 먼저 저의 첫번 째 과제인 시뮬레이션 클래스입니다.
-# 이것은 여지호 교수님의 기초물리학 수업에서 필요한 과제입니다.
+먼저 저의 첫번 째 과제인 시뮬레이션 클래스입니다.
+이것은 여지호 교수님의 기초물리학 수업에서 필요한 과제입니다.
 # simulation-class
 [Simulaiton Site](https://hnu209.github.io/simulation-class/)
 
